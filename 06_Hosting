@@ -1,0 +1,6 @@
+var nome1 = 'Stéffany';
+console.log(nome1);
+
+console.log(nome2);
+var nome2 = 'Maria';
+console.log(nome2);
